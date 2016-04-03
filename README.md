@@ -27,4 +27,6 @@ Things you may want to cover:
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
 
-box 3.3. When to Test
+3.4.3 Layouts and embedded ruby (refactor)
+
+bodyartforms.com septum ring
