@@ -27,6 +27,8 @@ Things you may want to cover:
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
 
-3.4.3 Layouts and embedded ruby (refactor)
+4.2.2 Strings
 
 bodyartforms.com septum ring
+
+rails server -b $IP -p $PORT
