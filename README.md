@@ -31,6 +31,4 @@ Please feel free to use a different markup language if you do not plan to run
 
 rails server -b $IP -p $PORT
 
-7.13: A form to sign up new users.
-
-Blue Exorcist anime
+Listing 12.36 Configuration needed for graceful degradation of form submission.
